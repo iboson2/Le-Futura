@@ -1,0 +1,97 @@
+[03-Feb-2017 05:53:20 Etc/GMT] PHP Notice:  Undefined index: namee in /home/currycui/public_html/lefutura.com/mail2.php on line 3
+[03-Feb-2017 05:53:20 Etc/GMT] PHP Notice:  Undefined index: subjecte in /home/currycui/public_html/lefutura.com/mail2.php on line 4
+[03-Feb-2017 05:53:20 Etc/GMT] PHP Notice:  Undefined index: messagee in /home/currycui/public_html/lefutura.com/mail2.php on line 5
+[03-Feb-2017 05:53:20 Etc/GMT] PHP Notice:  Undefined index: emaile in /home/currycui/public_html/lefutura.com/mail2.php on line 6
+[03-Feb-2017 05:53:20 Etc/GMT] PHP Notice:  Undefined index: namee in /home/currycui/public_html/lefutura.com/mail2.php on line 7
+[03-Feb-2017 05:53:20 Etc/GMT] PHP Notice:  Undefined index: emaile in /home/currycui/public_html/lefutura.com/mail2.php on line 8
+[03-Feb-2017 05:55:10 Etc/GMT] PHP Notice:  Undefined index: namee in /home/currycui/public_html/lefutura.com/mail2.php on line 3
+[03-Feb-2017 05:55:10 Etc/GMT] PHP Notice:  Undefined index: subjecte in /home/currycui/public_html/lefutura.com/mail2.php on line 4
+[03-Feb-2017 05:55:10 Etc/GMT] PHP Notice:  Undefined index: messagee in /home/currycui/public_html/lefutura.com/mail2.php on line 5
+[03-Feb-2017 05:55:10 Etc/GMT] PHP Notice:  Undefined index: emaile in /home/currycui/public_html/lefutura.com/mail2.php on line 6
+[03-Feb-2017 05:55:10 Etc/GMT] PHP Notice:  Undefined index: namee in /home/currycui/public_html/lefutura.com/mail2.php on line 7
+[03-Feb-2017 05:55:10 Etc/GMT] PHP Notice:  Undefined index: emaile in /home/currycui/public_html/lefutura.com/mail2.php on line 8
+[03-Feb-2017 05:55:18 Etc/GMT] PHP Notice:  Undefined index: namee in /home/currycui/public_html/lefutura.com/mail2.php on line 3
+[03-Feb-2017 05:55:18 Etc/GMT] PHP Notice:  Undefined index: subjecte in /home/currycui/public_html/lefutura.com/mail2.php on line 4
+[03-Feb-2017 05:55:18 Etc/GMT] PHP Notice:  Undefined index: messagee in /home/currycui/public_html/lefutura.com/mail2.php on line 5
+[03-Feb-2017 05:55:18 Etc/GMT] PHP Notice:  Undefined index: emaile in /home/currycui/public_html/lefutura.com/mail2.php on line 6
+[03-Feb-2017 05:55:18 Etc/GMT] PHP Notice:  Undefined index: namee in /home/currycui/public_html/lefutura.com/mail2.php on line 7
+[03-Feb-2017 05:55:18 Etc/GMT] PHP Notice:  Undefined index: emaile in /home/currycui/public_html/lefutura.com/mail2.php on line 8
+[03-Feb-2017 05:56:13 Etc/GMT] PHP Notice:  Undefined index: namee in /home/currycui/public_html/lefutura.com/mail2.php on line 3
+[03-Feb-2017 05:56:13 Etc/GMT] PHP Notice:  Undefined index: subjecte in /home/currycui/public_html/lefutura.com/mail2.php on line 4
+[03-Feb-2017 05:56:13 Etc/GMT] PHP Notice:  Undefined index: messagee in /home/currycui/public_html/lefutura.com/mail2.php on line 5
+[03-Feb-2017 05:56:13 Etc/GMT] PHP Notice:  Undefined index: emaile in /home/currycui/public_html/lefutura.com/mail2.php on line 6
+[03-Feb-2017 05:56:13 Etc/GMT] PHP Notice:  Undefined index: namee in /home/currycui/public_html/lefutura.com/mail2.php on line 7
+[03-Feb-2017 05:56:13 Etc/GMT] PHP Notice:  Undefined index: emaile in /home/currycui/public_html/lefutura.com/mail2.php on line 8
+[03-Feb-2017 05:58:07 Etc/GMT] PHP Notice:  Undefined index: namee in /home/currycui/public_html/lefutura.com/mail2.php on line 3
+[03-Feb-2017 05:58:07 Etc/GMT] PHP Notice:  Undefined index: subjecte in /home/currycui/public_html/lefutura.com/mail2.php on line 4
+[03-Feb-2017 05:58:07 Etc/GMT] PHP Notice:  Undefined index: messagee in /home/currycui/public_html/lefutura.com/mail2.php on line 5
+[03-Feb-2017 05:58:07 Etc/GMT] PHP Notice:  Undefined index: emaile in /home/currycui/public_html/lefutura.com/mail2.php on line 6
+[03-Feb-2017 05:58:07 Etc/GMT] PHP Notice:  Undefined index: namee in /home/currycui/public_html/lefutura.com/mail2.php on line 7
+[03-Feb-2017 05:58:07 Etc/GMT] PHP Notice:  Undefined index: emaile in /home/currycui/public_html/lefutura.com/mail2.php on line 8
+[03-Feb-2017 06:50:03 Etc/GMT] PHP Notice:  Undefined index: name in /home/currycui/public_html/lefutura.com/mail.php on line 3
+[03-Feb-2017 06:50:03 Etc/GMT] PHP Notice:  Undefined index: message in /home/currycui/public_html/lefutura.com/mail.php on line 5
+[03-Feb-2017 06:50:03 Etc/GMT] PHP Notice:  Undefined index: name in /home/currycui/public_html/lefutura.com/mail.php on line 7
+[03-Feb-2017 07:57:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/currycui/public_html/lefutura.com/mail.php on line 12
+[03-Feb-2017 07:57:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/currycui/public_html/lefutura.com/mail.php on line 12
+[03-Feb-2017 08:01:46 Etc/GMT] PHP Notice:  Undefined index: SCRIPT_URI in /home/currycui/public_html/lefutura.com/mail.php on line 6
+[03-Feb-2017 08:28:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/currycui/public_html/lefutura.com/mail.php on line 4
+[03-Feb-2017 08:31:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/currycui/public_html/lefutura.com/mail.php on line 4
+[03-Feb-2017 08:32:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/currycui/public_html/lefutura.com/mail.php on line 4
+[03-Feb-2017 08:35:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/currycui/public_html/lefutura.com/mail.php on line 4
+[03-Feb-2017 08:35:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/currycui/public_html/lefutura.com/mail.php on line 4
+[03-Feb-2017 08:37:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '$to' (T_VARIABLE) in /home/currycui/public_html/lefutura.com/mail.php on line 4
+[03-Feb-2017 08:37:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '$to' (T_VARIABLE) in /home/currycui/public_html/lefutura.com/mail.php on line 4
+[03-Feb-2017 08:37:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '$to' (T_VARIABLE) in /home/currycui/public_html/lefutura.com/mail.php on line 4
+[03-Feb-2017 08:59:37 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/currycui/public_html/lefutura.com/mail.php on line 13
+[03-Feb-2017 09:00:19 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/currycui/public_html/lefutura.com/mail.php on line 13
+[03-Feb-2017 09:37:15 Etc/GMT] PHP Notice:  Undefined variable: J2 in /home/currycui/public_html/lefutura.com/mail.php on line 12
+[03-Feb-2017 09:37:15 Etc/GMT] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 09:37:15 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 09:37:15 Etc/GMT] PHP Fatal error:  Class 'Net_SMTP' not found in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 349
+[03-Feb-2017 09:37:21 Etc/GMT] PHP Notice:  Undefined variable: J2 in /home/currycui/public_html/lefutura.com/mail.php on line 12
+[03-Feb-2017 09:37:21 Etc/GMT] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 09:37:21 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 09:37:21 Etc/GMT] PHP Fatal error:  Class 'Net_SMTP' not found in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 349
+[03-Feb-2017 09:38:16 Etc/GMT] PHP Notice:  Undefined variable: J2 in /home/currycui/public_html/lefutura.com/mail.php on line 12
+[03-Feb-2017 09:38:16 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 17
+[03-Feb-2017 09:38:30 Etc/GMT] PHP Notice:  Undefined variable: J2 in /home/currycui/public_html/lefutura.com/mail.php on line 12
+[03-Feb-2017 09:38:30 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 17
+[03-Feb-2017 09:41:26 Etc/GMT] PHP Notice:  Undefined variable: J2 in /home/currycui/public_html/lefutura.com/mail.php on line 12
+[03-Feb-2017 09:41:26 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 17
+[03-Feb-2017 09:41:30 Etc/GMT] PHP Notice:  Undefined variable: J2 in /home/currycui/public_html/lefutura.com/mail.php on line 12
+[03-Feb-2017 09:41:30 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 17
+[03-Feb-2017 09:53:43 Etc/GMT] PHP Notice:  Use of undefined constant ’email’ - assumed '’email’' in /home/currycui/public_html/lefutura.com/mail.php on line 5
+[03-Feb-2017 09:54:49 Etc/GMT] PHP Notice:  Use of undefined constant ’email’ - assumed '’email’' in /home/currycui/public_html/lefutura.com/mail.php on line 5
+[03-Feb-2017 09:54:57 Etc/GMT] PHP Notice:  Use of undefined constant ’email’ - assumed '’email’' in /home/currycui/public_html/lefutura.com/mail.php on line 5
+[03-Feb-2017 10:01:21 Etc/GMT] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 10:01:21 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/home/currycui/public_html/pear/php:.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 10:01:21 Etc/GMT] PHP Fatal error:  Class 'Net_SMTP' not found in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 349
+[03-Feb-2017 10:01:26 Etc/GMT] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 10:01:26 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/home/currycui/public_html/pear/php:.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 10:01:26 Etc/GMT] PHP Fatal error:  Class 'Net_SMTP' not found in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 349
+[03-Feb-2017 10:02:01 Etc/GMT] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 10:02:01 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/home/currycui/public_html/pear/php:.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 10:02:01 Etc/GMT] PHP Fatal error:  Class 'Net_SMTP' not found in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 349
+[03-Feb-2017 10:02:05 Etc/GMT] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 10:02:05 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/home/currycui/public_html/pear/php:.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 10:02:05 Etc/GMT] PHP Fatal error:  Class 'Net_SMTP' not found in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 349
+[03-Feb-2017 10:02:43 Etc/GMT] PHP Fatal error:  Call to undefined method PEAR_Error::send() in /home/currycui/public_html/lefutura.com/mail.php on line 20
+[03-Feb-2017 10:02:47 Etc/GMT] PHP Fatal error:  Call to undefined method PEAR_Error::send() in /home/currycui/public_html/lefutura.com/mail.php on line 20
+[03-Feb-2017 10:03:29 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 19
+[03-Feb-2017 10:12:06 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 19
+[03-Feb-2017 10:12:11 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 19
+[03-Feb-2017 10:34:40 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 15
+[03-Feb-2017 10:35:04 Etc/GMT] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 10:35:04 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 348
+[03-Feb-2017 10:35:04 Etc/GMT] PHP Fatal error:  Class 'Net_SMTP' not found in /opt/alt/php54/usr/share/pear/Mail/smtp.php on line 349
+[03-Feb-2017 10:39:42 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 18
+[03-Feb-2017 10:39:52 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 18
+[03-Feb-2017 10:40:25 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 18
+[03-Feb-2017 10:41:30 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 18
+[03-Feb-2017 10:47:52 Etc/GMT] PHP Fatal error:  Class 'PHPMailer' not found in /home/currycui/public_html/lefutura.com/mail.php on line 2
+[03-Feb-2017 10:47:57 Etc/GMT] PHP Fatal error:  Class 'PHPMailer' not found in /home/currycui/public_html/lefutura.com/mail.php on line 2
+[03-Feb-2017 10:54:46 Etc/GMT] PHP Fatal error:  Class 'Mail' not found in /home/currycui/public_html/lefutura.com/mail.php on line 24
+[03-Feb-2017 10:56:49 Etc/GMT] PHP Warning:  require(../PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/currycui/public_html/lefutura.com/mail.php on line 2
+[03-Feb-2017 10:56:49 Etc/GMT] PHP Warning:  require(../PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/currycui/public_html/lefutura.com/mail.php on line 2
+[03-Feb-2017 10:56:49 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../PHPMailerAutoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/currycui/public_html/lefutura.com/mail.php on line 2
+[03-Feb-2017 11:05:09 Etc/GMT] PHP Notice:  Undefined index: email in /home/currycui/public_html/lefutura.com/mail.php on line 3

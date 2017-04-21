@@ -1,0 +1,16 @@
+
+/* Tabs */
+.tab-item {
+  background: none repeat scroll 0 0 #fff;
+  display: none;
+  padding: 1.25rem 0;
+}
+.tab-item.tab-active {
+  display: block;
+}
+.tab-content > .tab-label {
+  display: none;
+}
+.tab-nav > .tab-label {
+  float:left;
+}

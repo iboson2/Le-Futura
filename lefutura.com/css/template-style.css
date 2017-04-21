@@ -1,0 +1,55 @@
+
+.our-work-container {
+	display: block;
+	height: 100%;
+	position: relative;
+}
+.our-work-text {
+	background: #00283a none repeat scroll 0 0;
+	bottom: 0;
+	display: block;
+	left: 0;
+	opacity: 0;
+	padding: 1.25em;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	transition: opacity 0.20s linear 0s;
+	-o-transition: opacityd 0.20s linear 0s;
+	-ms-transition: opacity 0.20s linear 0s;
+	-moz-transition: opacity 0.20s linear 0s;
+	-webkit-transition: opacity 0.20s linear 0s;
+	width: 100%;
+}
+.our-work-container:hover > .our-work-text {
+	opacity: 1;
+}
+.our-work-text h4 {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 600;
+}
+.our-work-text p {
+	color: #fff;
+	font-size: 0.8em;
+	opacity: 0.7;
+}
+.tab-nav {
+	display: table;
+}
+a.tab-label, a.tab-label:link, a.tab-label:visited {
+	background: #00283a none repeat scroll 0 0;
+	color: #fff;
+	display: block;
+	font-size: 1em;
+	padding: 0.625em 1.25em;
+	transition: all 0.20s linear 0s;
+	-o-transition: all 0.20s linear 0s;
+	-ms-transition: all 0.20s linear 0s;
+	-moz-transition: all 0.20s linear 0s;
+	-webkit-transition: all 0.20s linear 0s;
+}
+a.tab-label:hover, a.tab-label.active-btn {
+	background: #86c442;
+	color: #fff;
+}
